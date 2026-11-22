@@ -18,18 +18,6 @@ Grab the latest binary from the [Releases](../../releases) tab.
 
 ## Usage
 
-*(Keep the relevant section below and delete the other)*
-
-**CLI:**
-```cmd
-extISO.exe <source.iso> <destination_folder>
-```
-
-Example:
-```cmd
-extISO.exe C:\images\ubuntu.iso D:\extracted\ubuntu
-```
-
 **GUI:**
 Run `extISO.exe`, select the `.iso` file, pick the output directory, and hit Extract.
 
